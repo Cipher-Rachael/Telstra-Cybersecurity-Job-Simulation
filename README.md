@@ -1,6 +1,6 @@
 # Telstra-Cybersecurity-Job-Simulation
 
-# Malware Attack Response and Analysis
+## Malware Attack Response and Analysis
 
 ## Objective
 This repository contains the work and findings from a job simulation focused on responding to and analyzing malware attacks. The simulation aimed to enhance skills in incident response, malware analysis, technical mitigation, and postmortem reviews.
